@@ -2,7 +2,7 @@
 # Make it check through the rows if it contains the letter, 'o' then returns it if true
 # call the function
 # print
-
+# geeksforgeeks helped me understand the code
 
 
 restaurant_tables = [

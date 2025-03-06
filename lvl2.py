@@ -3,7 +3,7 @@
 # get the number which the tables
 # check if its big enough
 # Print the tables availible 
-
+# geeksforgeeks make me understand how it worked
 
 restaurant_tables = [
     [0, 'T1(2)', 'T2(4)', 'T3(2)', 'T4(6)', 'T5(4)', 'T6(2)'],  # Table names with capacities
